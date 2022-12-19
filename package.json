@@ -1,0 +1,27 @@
+{
+  "name": "webperf-tools",
+  "version": "0.1.0",
+  "description": "Web Performance Command Line Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucliweb/webperf-tools.git"
+  },
+  "keywords": [
+    "webperf",
+    "performance",
+    "wpo",
+    "commant-line",
+    "cli",
+    "perftools"
+  ],
+  "author": "Joan Leon | @nucliweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nucliweb/webperf-tools/issues"
+  },
+  "homepage": "https://github.com/nucliweb/webperf-tools#readme"
+}
